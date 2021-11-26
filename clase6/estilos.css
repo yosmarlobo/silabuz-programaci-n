@@ -1,0 +1,15 @@
+.fondo-div {
+  width: 500px;
+  height: 200px;
+  background-color: purple;
+  /*background-image: url(Marvel_Logo.png);*/
+  background-image: linear-gradient(blue, yellow);
+  background-size: cover;
+  background-repeat: round;
+  background-position: bottom right;
+  background-attachment: scroll;
+}
+
+body {
+  height: 2000px;
+}
